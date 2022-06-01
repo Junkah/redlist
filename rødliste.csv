@@ -1,8 +1,8 @@
 ,kategori,Antal arter (2010),Andel (2010),Antal arter (2019),Andel (2019)
-1,Kritisk truet (CR),368,4.5,379,3.6
-2,Truet (EN),494,4.5,379,3.6
-3,Sårbar (VU),658,8.1,801,7.5
-4,Næsten truet (NT),429,5.3,568,5.3
-5,Utilstrækkelige data (DD),618,7.6,1638,15.4
-6,Livskraftig (LC),5252,64.7,6223,58.4
-7,Ikke relevant (NA) + ikke vurderet (NE),2378,NA,2614,NA
+1,kritiskTruet,368,4.5,379,3.6
+2,truet,494,4.5,379,3.6
+3,sårbar,658,8.1,801,7.5
+4,næstenTruet,429,5.3,568,5.3
+5,UtilstrækkeligeData,618,7.6,1638,15.4
+6,livskraftig,5252,64.7,6223,58.4
+7,ikkeRelevant_ikkeVurderet,2378,NA,2614,NA

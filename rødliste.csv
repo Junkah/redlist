@@ -1,8 +1,9 @@
 ,kategori,antalArter_2010,andel_2010,antalArter_2019,andel_2019
 1,kritiskTruet,368,4.5,379,3.6
-2,truet,494,4.5,379,3.6
+2,truet,494,4.5,664,3.6
 3,sårbar,658,8.1,801,7.5
 4,næstenTruet,429,5.3,568,5.3
 5,utilstrækkeligeData,618,7.6,1638,15.4
 6,livskraftig,5252,64.7,6223,58.4
 7,ikkeRelevant_ikkeVurderet,2378,NA,2614,NA
+8,regionaltUddød,303,3.7,389,3.6
